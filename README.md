@@ -1,4 +1,6 @@
 # Basic-AI
+
+
 Text
  ↓
 Tokenization
