@@ -1,7 +1,7 @@
 # Basic-AI
 
 
-Text
+- Text
  ↓
 Tokenization
  ↓
